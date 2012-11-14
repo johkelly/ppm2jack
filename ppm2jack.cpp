@@ -1,4 +1,3 @@
-
 /*
  *
  * Takes a specified .ppm file and converts it to a text
@@ -23,6 +22,7 @@
  
     if(argc != 2){
         cout << "Usage: ppm2jack <filename.ppm>" << endl;
+        return(1);
     }
  
     string arg1(argv[1]);
