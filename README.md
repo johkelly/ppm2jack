@@ -8,12 +8,6 @@ Planned Enhancements
 ====================
 Optimization 1: Draw horizontal lines of pixels in groups
 
-Optimization 2: As 1, but vertical
-
-Optimization 2.5: Detect the better of 1 and 2, possibly mix
-
-Optimization 3: Detect a good (or even optimal) rectangle decomposition. Good luck, and godspeed.
-
 
 White Styling 1: Don't draw any white pixels. ("alpha")
 
